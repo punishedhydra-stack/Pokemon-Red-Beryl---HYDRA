@@ -1,0 +1,6078 @@
+[
+  "#if P_FAMILY_BULBASAUR\n",
+  {
+    "name": "Bulbasaur",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Ivysaur",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Venusaur",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BULBASAUR\n",
+  "\n#if P_FAMILY_CHARMANDER\n",
+  {
+    "name": "Charmander",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Charmeleon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Charizard",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHARMANDER\n",
+  "\n#if P_FAMILY_SQUIRTLE\n",
+  {
+    "name": "Squirtle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Wartortle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Blastoise",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SQUIRTLE\n",
+  "\n#if P_FAMILY_CATERPIE\n",
+  {
+    "name": "Caterpie",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Metapod",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  {
+    "name": "Butterfree",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CATERPIE\n",
+  "\n#if P_FAMILY_WEEDLE\n",
+  {
+    "name": "Weedle",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Kakuna",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Beedrill",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WEEDLE\n",
+  "\n#if P_FAMILY_PIDGEY\n",
+  {
+    "name": "Pidgey",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Pidgeotto",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Pidgeot",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PIDGEY\n",
+  "\n#if P_FAMILY_RATTATA\n",
+  {
+    "name": "Rattata",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Raticate",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_ALOLAN_FORMS\n",
+  {
+    "name": "RattataAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "RaticateAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_ALOLAN_FORMS\n",
+  "#endif //P_FAMILY_RATTATA\n",
+  "\n#if P_FAMILY_SPEAROW\n",
+  {
+    "name": "Spearow",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Fearow",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SPEAROW\n",
+  "\n#if P_FAMILY_EKANS\n",
+  {
+    "name": "Ekans",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Arbok",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_EKANS\n",
+  "\n#if P_FAMILY_PIKACHU\n",
+  "#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Pichu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Pikachu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Raichu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_ALOLAN_FORMS\n",
+  {
+    "name": "RaichuAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_ALOLAN_FORMS\n",
+  "#endif //P_FAMILY_PIKACHU\n",
+  "\n#if P_FAMILY_SANDSHREW\n",
+  {
+    "name": "Sandshrew",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Sandslash",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_ALOLAN_FORMS\n",
+  {
+    "name": "SandshrewAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "SandslashAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_ALOLAN_FORMS\n",
+  "#endif //P_FAMILY_SANDSHREW\n",
+  "\n#if P_FAMILY_NIDORAN\n",
+  {
+    "name": "NidoranF",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Nidorina",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Nidoqueen",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "NidoranM",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Nidorino",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Nidoking",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_NIDORAN\n",
+  "\n#if P_FAMILY_CLEFAIRY\n",
+  "#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Cleffa",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Clefairy",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Clefable",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CLEFAIRY\n",
+  "\n#if P_FAMILY_VULPIX\n",
+  {
+    "name": "Vulpix",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Ninetales",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_ALOLAN_FORMS\n",
+  {
+    "name": "VulpixAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "NinetalesAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_ALOLAN_FORMS\n",
+  "#endif //P_FAMILY_VULPIX\n",
+  "\n#if P_FAMILY_JIGGLYPUFF\n",
+  "#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Igglybuff",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Jigglypuff",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Wigglytuff",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_JIGGLYPUFF\n",
+  "\n#if P_FAMILY_ZUBAT\n",
+  {
+    "name": "Zubat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Golbat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Crobat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "#endif //P_FAMILY_ZUBAT\n",
+  "\n#if P_FAMILY_ODDISH\n",
+  {
+    "name": "Oddish",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Gloom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Vileplume",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Bellossom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "#endif //P_FAMILY_ODDISH\n",
+  "\n#if P_FAMILY_PARAS\n",
+  {
+    "name": "Paras",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Parasect",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PARAS\n",
+  "\n#if P_FAMILY_VENONAT\n",
+  {
+    "name": "Venonat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Venomoth",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_VENONAT\n",
+  "\n#if P_FAMILY_DIGLETT\n",
+  {
+    "name": "Diglett",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dugtrio",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_ALOLAN_FORMS\n",
+  {
+    "name": "DiglettAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "DugtrioAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_ALOLAN_FORMS\n",
+  "#endif //P_FAMILY_DIGLETT\n",
+  "\n#if P_FAMILY_MEOWTH\n",
+  {
+    "name": "Meowth",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Persian",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_ALOLAN_FORMS\n",
+  {
+    "name": "MeowthAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "PersianAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_ALOLAN_FORMS\n",
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "MeowthGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Perrserker",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_MEOWTH\n",
+  "\n#if P_FAMILY_PSYDUCK\n",
+  {
+    "name": "Psyduck",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Golduck",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PSYDUCK\n",
+  "\n#if P_FAMILY_MANKEY\n",
+  {
+    "name": "Mankey",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Primeape",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_9_CROSS_EVOS\n",
+  {
+    "name": "Annihilape",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_9_CROSS_EVOS\n",
+  "#endif //P_FAMILY_MANKEY\n",
+  "\n#if P_FAMILY_GROWLITHE\n",
+  {
+    "name": "Growlithe",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Arcanine",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "GrowlitheHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "ArcanineHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_GROWLITHE\n",
+  "\n#if P_FAMILY_POLIWAG\n",
+  {
+    "name": "Poliwag",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Poliwhirl",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Poliwrath",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Politoed",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "#endif //P_FAMILY_POLIWAG\n",
+  "\n#if P_FAMILY_ABRA\n",
+  {
+    "name": "Abra",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Kadabra",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Alakazam",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ABRA\n",
+  "\n#if P_FAMILY_MACHOP\n",
+  {
+    "name": "Machop",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Machoke",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Machamp",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MACHOP\n",
+  "\n#if P_FAMILY_BELLSPROUT\n",
+  {
+    "name": "Bellsprout",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Weepinbell",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Victreebel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BELLSPROUT\n",
+  "\n#if P_FAMILY_TENTACOOL\n",
+  {
+    "name": "Tentacool",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Tentacruel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TENTACOOL\n",
+  "\n#if P_FAMILY_GEODUDE\n",
+  {
+    "name": "Geodude",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Graveler",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Golem",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_ALOLAN_FORMS\n",
+  {
+    "name": "GeodudeAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "GravelerAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "GolemAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_ALOLAN_FORMS\n",
+  "#endif //P_FAMILY_GEODUDE\n",
+  "\n#if P_FAMILY_PONYTA\n",
+  {
+    "name": "Ponyta",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Rapidash",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "PonytaGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "RapidashGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_PONYTA\n",
+  "\n#if P_FAMILY_SLOWPOKE\n",
+  {
+    "name": "Slowpoke",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Slowbro",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Slowking",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "SlowpokeGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "SlowbroGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "SlowkingGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_SLOWPOKE\n",
+  "\n#if P_FAMILY_MAGNEMITE\n",
+  {
+    "name": "Magnemite",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Magneton",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Magnezone",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_MAGNEMITE\n",
+  "\n#if P_FAMILY_FARFETCHD\n",
+  {
+    "name": "Farfetchd",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "FarfetchdGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Sirfetchd",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_FARFETCHD\n",
+  "\n#if P_FAMILY_DODUO\n",
+  {
+    "name": "Doduo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Dodrio",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DODUO\n",
+  "\n#if P_FAMILY_SEEL\n",
+  {
+    "name": "Seel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dewgong",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SEEL\n",
+  "\n#if P_FAMILY_GRIMER\n",
+  {
+    "name": "Grimer",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Muk",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_ALOLAN_FORMS\n",
+  {
+    "name": "GrimerAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "MukAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_ALOLAN_FORMS\n",
+  "#endif //P_FAMILY_GRIMER\n",
+  "\n#if P_FAMILY_SHELLDER\n",
+  {
+    "name": "Shellder",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Cloyster",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SHELLDER\n",
+  "\n#if P_FAMILY_GASTLY\n",
+  {
+    "name": "Gastly",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Haunter",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Gengar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GASTLY\n",
+  "\n#if P_FAMILY_ONIX\n",
+  {
+    "name": "Onix",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Steelix",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "#endif //P_FAMILY_ONIX\n",
+  "\n#if P_FAMILY_DROWZEE\n",
+  {
+    "name": "Drowzee",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Hypno",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DROWZEE\n",
+  "\n#if P_FAMILY_KRABBY\n",
+  {
+    "name": "Krabby",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Kingler",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KRABBY\n",
+  "\n#if P_FAMILY_VOLTORB\n",
+  {
+    "name": "Voltorb",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Electrode",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "VoltorbHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "ElectrodeHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_VOLTORB\n",
+  "\n#if P_FAMILY_EXEGGCUTE\n",
+  {
+    "name": "Exeggcute",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Exeggutor",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_ALOLAN_FORMS\n",
+  {
+    "name": "ExeggutorAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_ALOLAN_FORMS\n",
+  "#endif //P_FAMILY_EXEGGCUTE\n",
+  "\n#if P_FAMILY_CUBONE\n",
+  {
+    "name": "Cubone",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Marowak",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_ALOLAN_FORMS\n",
+  {
+    "name": "MarowakAlola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_ALOLAN_FORMS\n",
+  "#endif //P_FAMILY_CUBONE\n",
+  "\n#if P_FAMILY_HITMONS\n",
+  "#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Tyrogue",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Hitmonlee",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Hitmonchan",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Hitmontop",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "#endif //P_FAMILY_HITMONS\n",
+  "\n#if P_FAMILY_LICKITUNG\n",
+  {
+    "name": "Lickitung",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Lickilicky",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_LICKITUNG\n",
+  "\n#if P_FAMILY_KOFFING\n",
+  {
+    "name": "Koffing",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Weezing",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "WeezingGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_KOFFING\n",
+  "\n#if P_FAMILY_RHYHORN\n",
+  {
+    "name": "Rhyhorn",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Rhydon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Rhyperior",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_RHYHORN\n",
+  "\n#if P_FAMILY_CHANSEY\n",
+  "#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Happiny",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Chansey",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Blissey",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "#endif //P_FAMILY_CHANSEY\n",
+  "\n#if P_FAMILY_TANGELA\n",
+  {
+    "name": "Tangela",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Tangrowth",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_TANGELA\n",
+  "\n#if P_FAMILY_KANGASKHAN\n",
+  {
+    "name": "Kangaskhan",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KANGASKHAN\n",
+  "\n#if P_FAMILY_HORSEA\n",
+  {
+    "name": "Horsea",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Seadra",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Kingdra",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "#endif //P_FAMILY_HORSEA\n",
+  "\n#if P_FAMILY_GOLDEEN\n",
+  {
+    "name": "Goldeen",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Seaking",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GOLDEEN\n",
+  "\n#if P_FAMILY_STARYU\n",
+  {
+    "name": "Staryu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Starmie",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_STARYU\n",
+  "\n#if P_FAMILY_MR_MIME\n",
+  "#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "MimeJr",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "MrMime",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "MrMimeGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "MrRime",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_MR_MIME\n",
+  "\n#if P_FAMILY_SCYTHER\n",
+  {
+    "name": "Scyther",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Scizor",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "\n#if P_GEN_8_CROSS_EVOS\n",
+  {
+    "name": "Kleavor",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_8_CROSS_EVOS\n",
+  "#endif //P_FAMILY_SCYTHER\n",
+  "\n#if P_FAMILY_JYNX\n",
+  "#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Smoochum",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Jynx",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_JYNX\n",
+  "\n#if P_FAMILY_ELECTABUZZ\n",
+  "#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Elekid",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Electabuzz",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Electivire",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_ELECTABUZZ\n",
+  "\n#if P_FAMILY_MAGMAR\n",
+  "#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Magby",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Magmar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Magmortar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_MAGMAR\n",
+  "\n#if P_FAMILY_PINSIR\n",
+  {
+    "name": "Pinsir",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PINSIR\n",
+  "\n#if P_FAMILY_TAUROS\n",
+  {
+    "name": "Tauros",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_PALDEAN_FORMS\n",
+  {
+    "name": "TaurosPaldeaCombat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "TaurosPaldeaBlaze",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "TaurosPaldeaAqua",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_PALDEAN_FORMS\n",
+  "#endif //P_FAMILY_TAUROS\n",
+  "\n#if P_FAMILY_MAGIKARP\n",
+  {
+    "name": "Magikarp",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  {
+    "name": "Gyarados",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MAGIKARP\n",
+  "\n#if P_FAMILY_LAPRAS\n",
+  {
+    "name": "Lapras",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LAPRAS\n",
+  "\n#if P_FAMILY_DITTO\n",
+  {
+    "name": "Ditto",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "#endif //P_FAMILY_DITTO\n",
+  "\n#if P_FAMILY_EEVEE\n",
+  {
+    "name": "Eevee",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Vaporeon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Jolteon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Flareon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Espeon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Umbreon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Leafeon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Glaceon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "\n#if P_GEN_6_CROSS_EVOS\n",
+  {
+    "name": "Sylveon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_6_CROSS_EVOS\n",
+  "#endif //P_FAMILY_EEVEE\n",
+  "\n#if P_FAMILY_PORYGON\n",
+  {
+    "name": "Porygon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_2_CROSS_EVOS\n",
+  {
+    "name": "Porygon2",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "PorygonZ",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_GEN_2_CROSS_EVOS\n",
+  "#endif //P_FAMILY_PORYGON\n",
+  "\n#if P_FAMILY_OMANYTE\n",
+  {
+    "name": "Omanyte",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Omastar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_OMANYTE\n",
+  "\n#if P_FAMILY_KABUTO\n",
+  {
+    "name": "Kabuto",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Kabutops",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KABUTO\n",
+  "\n#if P_FAMILY_AERODACTYL\n",
+  {
+    "name": "Aerodactyl",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_AERODACTYL\n",
+  "\n#if P_FAMILY_SNORLAX\n",
+  "#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Munchlax",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Snorlax",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SNORLAX\n",
+  "\n#if P_FAMILY_ARTICUNO\n",
+  {
+    "name": "Articuno",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "ArticunoGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_ARTICUNO\n",
+  "\n#if P_FAMILY_ZAPDOS\n",
+  {
+    "name": "Zapdos",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "ZapdosGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_ZAPDOS\n",
+  "\n#if P_FAMILY_MOLTRES\n",
+  {
+    "name": "Moltres",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "MoltresGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_MOLTRES\n",
+  "\n#if P_FAMILY_DRATINI\n",
+  {
+    "name": "Dratini",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dragonair",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dragonite",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DRATINI\n",
+  "\n#if P_FAMILY_MEWTWO\n",
+  {
+    "name": "Mewtwo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MEWTWO\n",
+  "\n#if P_FAMILY_MEW\n",
+  {
+    "name": "Mew",
+    "teaching_type": "ALL_TEACHABLES"
+  },
+  "#endif //P_FAMILY_MEW\n",
+  "\n#if P_FAMILY_CHIKORITA\n",
+  {
+    "name": "Chikorita",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Bayleef",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Meganium",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHIKORITA\n",
+  "\n#if P_FAMILY_CYNDAQUIL\n",
+  {
+    "name": "Cyndaquil",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Quilava",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Typhlosion",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "TyphlosionHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_CYNDAQUIL\n",
+  "\n#if P_FAMILY_TOTODILE\n",
+  {
+    "name": "Totodile",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Croconaw",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Feraligatr",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TOTODILE\n",
+  "\n#if P_FAMILY_SENTRET\n",
+  {
+    "name": "Sentret",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Furret",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SENTRET\n",
+  "\n#if P_FAMILY_HOOTHOOT\n",
+  {
+    "name": "Hoothoot",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Noctowl",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HOOTHOOT\n",
+  "\n#if P_FAMILY_LEDYBA\n",
+  {
+    "name": "Ledyba",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Ledian",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LEDYBA\n",
+  "\n#if P_FAMILY_SPINARAK\n",
+  {
+    "name": "Spinarak",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Ariados",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SPINARAK\n",
+  "\n#if P_FAMILY_CHINCHOU\n",
+  {
+    "name": "Chinchou",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Lanturn",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHINCHOU\n",
+  "\n#if P_FAMILY_TOGEPI\n",
+  {
+    "name": "Togepi",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Togetic",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Togekiss",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_TOGEPI\n",
+  "\n#if P_FAMILY_NATU\n",
+  {
+    "name": "Natu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Xatu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_NATU\n",
+  "\n#if P_FAMILY_MAREEP\n",
+  {
+    "name": "Mareep",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Flaaffy",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Ampharos",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MAREEP\n",
+  "\n#if P_FAMILY_MARILL\n",
+  "#if P_GEN_3_CROSS_EVOS\n",
+  {
+    "name": "Azurill",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_3_CROSS_EVOS\n",
+  {
+    "name": "Marill",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Azumarill",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MARILL\n",
+  "\n#if P_FAMILY_SUDOWOODO\n",
+  "#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Bonsly",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Sudowoodo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SUDOWOODO\n",
+  "\n#if P_FAMILY_HOPPIP\n",
+  {
+    "name": "Hoppip",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Skiploom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Jumpluff",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HOPPIP\n",
+  "\n#if P_FAMILY_AIPOM\n",
+  {
+    "name": "Aipom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Ambipom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_AIPOM\n",
+  "\n#if P_FAMILY_SUNKERN\n",
+  {
+    "name": "Sunkern",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Sunflora",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SUNKERN\n",
+  "\n#if P_FAMILY_YANMA\n",
+  {
+    "name": "Yanma",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Yanmega",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_YANMA\n",
+  "\n#if P_FAMILY_WOOPER\n",
+  {
+    "name": "Wooper",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Quagsire",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_PALDEAN_FORMS\n",
+  {
+    "name": "WooperPaldea",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Clodsire",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_PALDEAN_FORMS\n",
+  "#endif //P_FAMILY_WOOPER\n",
+  "\n#if P_FAMILY_MURKROW\n",
+  {
+    "name": "Murkrow",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Honchkrow",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_MURKROW\n",
+  "\n#if P_FAMILY_MISDREAVUS\n",
+  {
+    "name": "Misdreavus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Mismagius",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_MISDREAVUS\n",
+  "\n#if P_FAMILY_UNOWN\n",
+  {
+    "name": "Unown",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "#endif //P_FAMILY_UNOWN\n",
+  "\n#if P_FAMILY_WOBBUFFET\n",
+  "#if P_GEN_3_CROSS_EVOS\n",
+  {
+    "name": "Wynaut",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "#endif //P_GEN_3_CROSS_EVOS\n",
+  {
+    "name": "Wobbuffet",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "#endif //P_FAMILY_WOBBUFFET\n",
+  "\n#if P_FAMILY_GIRAFARIG\n",
+  {
+    "name": "Girafarig",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_9_CROSS_EVOS\n",
+  {
+    "name": "Farigiraf",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_9_CROSS_EVOS\n",
+  "#endif //P_FAMILY_GIRAFARIG\n",
+  "\n#if P_FAMILY_PINECO\n",
+  {
+    "name": "Pineco",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Forretress",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PINECO\n",
+  "\n#if P_FAMILY_DUNSPARCE\n",
+  {
+    "name": "Dunsparce",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_9_CROSS_EVOS\n",
+  {
+    "name": "Dudunsparce",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_9_CROSS_EVOS\n",
+  "#endif //P_FAMILY_DUNSPARCE\n",
+  "\n#if P_FAMILY_GLIGAR\n",
+  {
+    "name": "Gligar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Gliscor",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_GLIGAR\n",
+  "\n#if P_FAMILY_SNUBBULL\n",
+  {
+    "name": "Snubbull",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Granbull",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SNUBBULL\n",
+  "\n#if P_FAMILY_QWILFISH\n",
+  {
+    "name": "Qwilfish",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "QwilfishHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Overqwil",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_QWILFISH\n",
+  "\n#if P_FAMILY_SHUCKLE\n",
+  {
+    "name": "Shuckle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SHUCKLE\n",
+  "\n#if P_FAMILY_HERACROSS\n",
+  {
+    "name": "Heracross",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HERACROSS\n",
+  "\n#if P_FAMILY_SNEASEL\n",
+  {
+    "name": "Sneasel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Weavile",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "SneaselHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Sneasler",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_SNEASEL\n",
+  "\n#if P_FAMILY_TEDDIURSA\n",
+  {
+    "name": "Teddiursa",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Ursaring",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_8_CROSS_EVOS\n",
+  {
+    "name": "Ursaluna",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "UrsalunaBloodmoon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_8_CROSS_EVOS\n",
+  "#endif //P_FAMILY_TEDDIURSA\n",
+  "\n#if P_FAMILY_SLUGMA\n",
+  {
+    "name": "Slugma",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Magcargo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SLUGMA\n",
+  "\n#if P_FAMILY_SWINUB\n",
+  {
+    "name": "Swinub",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Piloswine",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Mamoswine",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_SWINUB\n",
+  "\n#if P_FAMILY_CORSOLA\n",
+  {
+    "name": "Corsola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "CorsolaGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Cursola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_CORSOLA\n",
+  "\n#if P_FAMILY_REMORAID\n",
+  {
+    "name": "Remoraid",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Octillery",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_REMORAID\n",
+  "\n#if P_FAMILY_DELIBIRD\n",
+  {
+    "name": "Delibird",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DELIBIRD\n",
+  "\n#if P_FAMILY_MANTINE\n",
+  "#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Mantyke",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Mantine",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MANTINE\n",
+  "\n#if P_FAMILY_SKARMORY\n",
+  {
+    "name": "Skarmory",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SKARMORY\n",
+  "\n#if P_FAMILY_HOUNDOUR\n",
+  {
+    "name": "Houndour",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Houndoom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HOUNDOUR\n",
+  "\n#if P_FAMILY_PHANPY\n",
+  {
+    "name": "Phanpy",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Donphan",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PHANPY\n",
+  "\n#if P_FAMILY_STANTLER\n",
+  {
+    "name": "Stantler",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_8_CROSS_EVOS\n",
+  {
+    "name": "Wyrdeer",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_8_CROSS_EVOS\n",
+  "#endif //P_FAMILY_STANTLER\n",
+  "\n#if P_FAMILY_SMEARGLE\n",
+  {
+    "name": "Smeargle",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "#endif //P_FAMILY_SMEARGLE\n",
+  "\n#if P_FAMILY_MILTANK\n",
+  {
+    "name": "Miltank",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MILTANK\n",
+  "\n#if P_FAMILY_RAIKOU\n",
+  {
+    "name": "Raikou",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_RAIKOU\n",
+  "\n#if P_FAMILY_ENTEI\n",
+  {
+    "name": "Entei",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ENTEI\n",
+  "\n#if P_FAMILY_SUICUNE\n",
+  {
+    "name": "Suicune",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SUICUNE\n",
+  "\n#if P_FAMILY_LARVITAR\n",
+  {
+    "name": "Larvitar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Pupitar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Tyranitar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LARVITAR\n",
+  "\n#if P_FAMILY_LUGIA\n",
+  {
+    "name": "Lugia",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LUGIA\n",
+  "\n#if P_FAMILY_HO_OH\n",
+  {
+    "name": "HoOh",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HO_OH\n",
+  "\n#if P_FAMILY_CELEBI\n",
+  {
+    "name": "Celebi",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CELEBI\n",
+  "\n#if P_FAMILY_TREECKO\n",
+  {
+    "name": "Treecko",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Grovyle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Sceptile",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TREECKO\n",
+  "\n#if P_FAMILY_TORCHIC\n",
+  {
+    "name": "Torchic",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Combusken",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Blaziken",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TORCHIC\n",
+  "\n#if P_FAMILY_MUDKIP\n",
+  {
+    "name": "Mudkip",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Marshtomp",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Swampert",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MUDKIP\n",
+  "\n#if P_FAMILY_POOCHYENA\n",
+  {
+    "name": "Poochyena",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Mightyena",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_POOCHYENA\n",
+  "\n#if P_FAMILY_ZIGZAGOON\n",
+  {
+    "name": "Zigzagoon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Linoone",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "ZigzagoonGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "LinooneGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Obstagoon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_ZIGZAGOON\n",
+  "\n#if P_FAMILY_WURMPLE\n",
+  {
+    "name": "Wurmple",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Silcoon",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  {
+    "name": "Beautifly",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Cascoon",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  {
+    "name": "Dustox",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WURMPLE\n",
+  "\n#if P_FAMILY_LOTAD\n",
+  {
+    "name": "Lotad",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Lombre",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Ludicolo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LOTAD\n",
+  "\n#if P_FAMILY_SEEDOT\n",
+  {
+    "name": "Seedot",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Nuzleaf",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Shiftry",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SEEDOT\n",
+  "\n#if P_FAMILY_TAILLOW\n",
+  {
+    "name": "Taillow",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Swellow",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TAILLOW\n",
+  "\n#if P_FAMILY_WINGULL\n",
+  {
+    "name": "Wingull",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Pelipper",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WINGULL\n",
+  "\n#if P_FAMILY_RALTS\n",
+  {
+    "name": "Ralts",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Kirlia",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Gardevoir",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Gallade",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_RALTS\n",
+  "\n#if P_FAMILY_SURSKIT\n",
+  {
+    "name": "Surskit",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Masquerain",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SURSKIT\n",
+  "\n#if P_FAMILY_SHROOMISH\n",
+  {
+    "name": "Shroomish",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Breloom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SHROOMISH\n",
+  "\n#if P_FAMILY_SLAKOTH\n",
+  {
+    "name": "Slakoth",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Vigoroth",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Slaking",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SLAKOTH\n",
+  "\n#if P_FAMILY_NINCADA\n",
+  {
+    "name": "Nincada",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Ninjask",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Shedinja",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_NINCADA\n",
+  "\n#if P_FAMILY_WHISMUR\n",
+  {
+    "name": "Whismur",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Loudred",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Exploud",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WHISMUR\n",
+  "\n#if P_FAMILY_MAKUHITA\n",
+  {
+    "name": "Makuhita",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Hariyama",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MAKUHITA\n",
+  "\n#if P_FAMILY_NOSEPASS\n",
+  {
+    "name": "Nosepass",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Probopass",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_NOSEPASS\n",
+  "\n#if P_FAMILY_SKITTY\n",
+  {
+    "name": "Skitty",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Delcatty",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SKITTY\n",
+  "\n#if P_FAMILY_SABLEYE\n",
+  {
+    "name": "Sableye",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SABLEYE\n",
+  "\n#if P_FAMILY_MAWILE\n",
+  {
+    "name": "Mawile",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MAWILE\n",
+  "\n#if P_FAMILY_ARON\n",
+  {
+    "name": "Aron",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Lairon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Aggron",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ARON\n",
+  "\n#if P_FAMILY_MEDITITE\n",
+  {
+    "name": "Meditite",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Medicham",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MEDITITE\n",
+  "\n#if P_FAMILY_ELECTRIKE\n",
+  {
+    "name": "Electrike",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Manectric",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ELECTRIKE\n",
+  "\n#if P_FAMILY_PLUSLE\n",
+  {
+    "name": "Plusle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PLUSLE\n",
+  "\n#if P_FAMILY_MINUN\n",
+  {
+    "name": "Minun",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MINUN\n",
+  "\n#if P_FAMILY_VOLBEAT_ILLUMISE\n",
+  {
+    "name": "Volbeat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Illumise",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_VOLBEAT_ILLUMISE\n",
+  "\n#if P_FAMILY_ROSELIA\n",
+  "#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Budew",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Roselia",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Roserade",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_ROSELIA\n",
+  "\n#if P_FAMILY_GULPIN\n",
+  {
+    "name": "Gulpin",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Swalot",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GULPIN\n",
+  "\n#if P_FAMILY_CARVANHA\n",
+  {
+    "name": "Carvanha",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Sharpedo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CARVANHA\n",
+  "\n#if P_FAMILY_WAILMER\n",
+  {
+    "name": "Wailmer",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Wailord",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WAILMER\n",
+  "\n#if P_FAMILY_NUMEL\n",
+  {
+    "name": "Numel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Camerupt",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_NUMEL\n",
+  "\n#if P_FAMILY_TORKOAL\n",
+  {
+    "name": "Torkoal",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TORKOAL\n",
+  "\n#if P_FAMILY_SPOINK\n",
+  {
+    "name": "Spoink",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Grumpig",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SPOINK\n",
+  "\n#if P_FAMILY_SPINDA\n",
+  {
+    "name": "Spinda",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SPINDA\n",
+  "\n#if P_FAMILY_TRAPINCH\n",
+  {
+    "name": "Trapinch",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Vibrava",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Flygon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TRAPINCH\n",
+  "\n#if P_FAMILY_CACNEA\n",
+  {
+    "name": "Cacnea",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Cacturne",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CACNEA\n",
+  "\n#if P_FAMILY_SWABLU\n",
+  {
+    "name": "Swablu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Altaria",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SWABLU\n",
+  "\n#if P_FAMILY_ZANGOOSE\n",
+  {
+    "name": "Zangoose",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ZANGOOSE\n",
+  "\n#if P_FAMILY_SEVIPER\n",
+  {
+    "name": "Seviper",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SEVIPER\n",
+  "\n#if P_FAMILY_LUNATONE\n",
+  {
+    "name": "Lunatone",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LUNATONE\n",
+  "\n#if P_FAMILY_SOLROCK\n",
+  {
+    "name": "Solrock",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SOLROCK\n",
+  "\n#if P_FAMILY_BARBOACH\n",
+  {
+    "name": "Barboach",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Whiscash",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BARBOACH\n",
+  "\n#if P_FAMILY_CORPHISH\n",
+  {
+    "name": "Corphish",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Crawdaunt",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CORPHISH\n",
+  "\n#if P_FAMILY_BALTOY\n",
+  {
+    "name": "Baltoy",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Claydol",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BALTOY\n",
+  "\n#if P_FAMILY_LILEEP\n",
+  {
+    "name": "Lileep",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Cradily",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LILEEP\n",
+  "\n#if P_FAMILY_ANORITH\n",
+  {
+    "name": "Anorith",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Armaldo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ANORITH\n",
+  "\n#if P_FAMILY_FEEBAS\n",
+  {
+    "name": "Feebas",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Milotic",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FEEBAS\n",
+  "\n#if P_FAMILY_CASTFORM\n",
+  {
+    "name": "Castform",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CASTFORM\n",
+  "\n#if P_FAMILY_KECLEON\n",
+  {
+    "name": "Kecleon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KECLEON\n",
+  "\n#if P_FAMILY_SHUPPET\n",
+  {
+    "name": "Shuppet",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Banette",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SHUPPET\n",
+  "\n#if P_FAMILY_DUSKULL\n",
+  {
+    "name": "Duskull",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dusclops",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Dusknoir",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_DUSKULL\n",
+  "\n#if P_FAMILY_TROPIUS\n",
+  {
+    "name": "Tropius",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TROPIUS\n",
+  "\n#if P_FAMILY_CHIMECHO\n",
+  "#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Chingling",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Chimecho",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHIMECHO\n",
+  "\n#if P_FAMILY_ABSOL\n",
+  {
+    "name": "Absol",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ABSOL\n",
+  "\n#if P_FAMILY_SNORUNT\n",
+  {
+    "name": "Snorunt",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Glalie",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_4_CROSS_EVOS\n",
+  {
+    "name": "Froslass",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_4_CROSS_EVOS\n",
+  "#endif //P_FAMILY_SNORUNT\n",
+  "\n#if P_FAMILY_SPHEAL\n",
+  {
+    "name": "Spheal",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Sealeo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Walrein",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SPHEAL\n",
+  "\n#if P_FAMILY_CLAMPERL\n",
+  {
+    "name": "Clamperl",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Huntail",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Gorebyss",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CLAMPERL\n",
+  "\n#if P_FAMILY_RELICANTH\n",
+  {
+    "name": "Relicanth",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_RELICANTH\n",
+  "\n#if P_FAMILY_LUVDISC\n",
+  {
+    "name": "Luvdisc",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LUVDISC\n",
+  "\n#if P_FAMILY_BAGON\n",
+  {
+    "name": "Bagon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Shelgon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Salamence",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BAGON\n",
+  "\n#if P_FAMILY_BELDUM\n",
+  {
+    "name": "Beldum",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Metang",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Metagross",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BELDUM\n",
+  "\n#if P_FAMILY_REGIROCK\n",
+  {
+    "name": "Regirock",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_REGIROCK\n",
+  "\n#if P_FAMILY_REGICE\n",
+  {
+    "name": "Regice",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_REGICE\n",
+  "\n#if P_FAMILY_REGISTEEL\n",
+  {
+    "name": "Registeel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_REGISTEEL\n",
+  "\n#if P_FAMILY_LATIAS\n",
+  {
+    "name": "Latias",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LATIAS\n",
+  "\n#if P_FAMILY_LATIOS\n",
+  {
+    "name": "Latios",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LATIOS\n",
+  "\n#if P_FAMILY_KYOGRE\n",
+  {
+    "name": "Kyogre",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KYOGRE\n",
+  "\n#if P_FAMILY_GROUDON\n",
+  {
+    "name": "Groudon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GROUDON\n",
+  "\n#if P_FAMILY_RAYQUAZA\n",
+  {
+    "name": "Rayquaza",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_RAYQUAZA\n",
+  "\n#if P_FAMILY_JIRACHI\n",
+  {
+    "name": "Jirachi",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_JIRACHI\n",
+  "\n#if P_FAMILY_DEOXYS\n",
+  {
+    "name": "DeoxysNormal",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "DeoxysAttack",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "DeoxysDefense",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "DeoxysSpeed",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DEOXYS\n",
+  "\n#if P_FAMILY_TURTWIG\n",
+  {
+    "name": "Turtwig",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Grotle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Torterra",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TURTWIG\n",
+  "\n#if P_FAMILY_CHIMCHAR\n",
+  {
+    "name": "Chimchar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Monferno",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Infernape",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHIMCHAR\n",
+  "\n#if P_FAMILY_PIPLUP\n",
+  {
+    "name": "Piplup",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Prinplup",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Empoleon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PIPLUP\n",
+  "\n#if P_FAMILY_STARLY\n",
+  {
+    "name": "Starly",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Staravia",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Staraptor",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_STARLY\n",
+  "\n#if P_FAMILY_BIDOOF\n",
+  {
+    "name": "Bidoof",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Bibarel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BIDOOF\n",
+  "\n#if P_FAMILY_KRICKETOT\n",
+  {
+    "name": "Kricketot",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  {
+    "name": "Kricketune",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KRICKETOT\n",
+  "\n#if P_FAMILY_SHINX\n",
+  {
+    "name": "Shinx",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Luxio",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Luxray",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SHINX\n",
+  "\n#if P_FAMILY_CRANIDOS\n",
+  {
+    "name": "Cranidos",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Rampardos",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CRANIDOS\n",
+  "\n#if P_FAMILY_SHIELDON\n",
+  {
+    "name": "Shieldon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Bastiodon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SHIELDON\n",
+  "\n#if P_FAMILY_BURMY\n",
+  {
+    "name": "Burmy",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "WormadamPlant",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "WormadamSandy",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "WormadamTrash",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Mothim",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BURMY\n",
+  "\n#if P_FAMILY_COMBEE\n",
+  {
+    "name": "Combee",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Vespiquen",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_COMBEE\n",
+  "\n#if P_FAMILY_PACHIRISU\n",
+  {
+    "name": "Pachirisu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PACHIRISU\n",
+  "\n#if P_FAMILY_BUIZEL\n",
+  {
+    "name": "Buizel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Floatzel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BUIZEL\n",
+  "\n#if P_FAMILY_CHERUBI\n",
+  {
+    "name": "Cherubi",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Cherrim",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHERUBI\n",
+  "\n#if P_FAMILY_SHELLOS\n",
+  {
+    "name": "Shellos",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Gastrodon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SHELLOS\n",
+  "\n#if P_FAMILY_DRIFLOON\n",
+  {
+    "name": "Drifloon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Drifblim",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DRIFLOON\n",
+  "\n#if P_FAMILY_BUNEARY\n",
+  {
+    "name": "Buneary",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Lopunny",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BUNEARY\n",
+  "\n#if P_FAMILY_GLAMEOW\n",
+  {
+    "name": "Glameow",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Purugly",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GLAMEOW\n",
+  "\n#if P_FAMILY_STUNKY\n",
+  {
+    "name": "Stunky",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Skuntank",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_STUNKY\n",
+  "\n#if P_FAMILY_BRONZOR\n",
+  {
+    "name": "Bronzor",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Bronzong",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BRONZOR\n",
+  "\n#if P_FAMILY_CHATOT\n",
+  {
+    "name": "Chatot",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHATOT\n",
+  "\n#if P_FAMILY_SPIRITOMB\n",
+  {
+    "name": "Spiritomb",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SPIRITOMB\n",
+  "\n#if P_FAMILY_GIBLE\n",
+  {
+    "name": "Gible",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Gabite",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Garchomp",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GIBLE\n",
+  "\n#if P_FAMILY_RIOLU\n",
+  {
+    "name": "Riolu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Lucario",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_RIOLU\n",
+  "\n#if P_FAMILY_HIPPOPOTAS\n",
+  {
+    "name": "Hippopotas",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Hippowdon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HIPPOPOTAS\n",
+  "\n#if P_FAMILY_SKORUPI\n",
+  {
+    "name": "Skorupi",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Drapion",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SKORUPI\n",
+  "\n#if P_FAMILY_CROAGUNK\n",
+  {
+    "name": "Croagunk",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Toxicroak",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CROAGUNK\n",
+  "\n#if P_FAMILY_CARNIVINE\n",
+  {
+    "name": "Carnivine",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CARNIVINE\n",
+  "\n#if P_FAMILY_FINNEON\n",
+  {
+    "name": "Finneon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Lumineon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FINNEON\n",
+  "\n#if P_FAMILY_SNOVER\n",
+  {
+    "name": "Snover",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Abomasnow",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SNOVER\n",
+  "\n#if P_FAMILY_ROTOM\n",
+  {
+    "name": "Rotom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ROTOM\n",
+  "\n#if P_FAMILY_UXIE\n",
+  {
+    "name": "Uxie",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_UXIE\n",
+  "\n#if P_FAMILY_MESPRIT\n",
+  {
+    "name": "Mesprit",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MESPRIT\n",
+  "\n#if P_FAMILY_AZELF\n",
+  {
+    "name": "Azelf",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_AZELF\n",
+  "\n#if P_FAMILY_DIALGA\n",
+  {
+    "name": "Dialga",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DIALGA\n",
+  "\n#if P_FAMILY_PALKIA\n",
+  {
+    "name": "Palkia",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PALKIA\n",
+  "\n#if P_FAMILY_HEATRAN\n",
+  {
+    "name": "Heatran",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HEATRAN\n",
+  "\n#if P_FAMILY_REGIGIGAS\n",
+  {
+    "name": "Regigigas",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_REGIGIGAS\n",
+  "\n#if P_FAMILY_GIRATINA\n",
+  {
+    "name": "Giratina",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GIRATINA\n",
+  "\n#if P_FAMILY_CRESSELIA\n",
+  {
+    "name": "Cresselia",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CRESSELIA\n",
+  "\n#if P_FAMILY_MANAPHY\n",
+  {
+    "name": "Phione",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Manaphy",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MANAPHY\n",
+  "\n#if P_FAMILY_DARKRAI\n",
+  {
+    "name": "Darkrai",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DARKRAI\n",
+  "\n#if P_FAMILY_SHAYMIN\n",
+  {
+    "name": "ShayminLand",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "ShayminSky",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SHAYMIN\n",
+  "\n#if P_FAMILY_ARCEUS\n",
+  {
+    "name": "Arceus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ARCEUS\n",
+  "\n#if P_FAMILY_VICTINI\n",
+  {
+    "name": "Victini",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_VICTINI\n",
+  "\n#if P_FAMILY_SNIVY\n",
+  {
+    "name": "Snivy",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Servine",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Serperior",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SNIVY\n",
+  "\n#if P_FAMILY_TEPIG\n",
+  {
+    "name": "Tepig",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Pignite",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Emboar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TEPIG\n",
+  "\n#if P_FAMILY_OSHAWOTT\n",
+  {
+    "name": "Oshawott",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dewott",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Samurott",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "SamurottHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_OSHAWOTT\n",
+  "\n#if P_FAMILY_PATRAT\n",
+  {
+    "name": "Patrat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Watchog",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PATRAT\n",
+  "\n#if P_FAMILY_LILLIPUP\n",
+  {
+    "name": "Lillipup",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Herdier",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Stoutland",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LILLIPUP\n",
+  "\n#if P_FAMILY_PURRLOIN\n",
+  {
+    "name": "Purrloin",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Liepard",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PURRLOIN\n",
+  "\n#if P_FAMILY_PANSAGE\n",
+  {
+    "name": "Pansage",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Simisage",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PANSAGE\n",
+  "\n#if P_FAMILY_PANSEAR\n",
+  {
+    "name": "Pansear",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Simisear",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PANSEAR\n",
+  "\n#if P_FAMILY_PANPOUR\n",
+  {
+    "name": "Panpour",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Simipour",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PANPOUR\n",
+  "\n#if P_FAMILY_MUNNA\n",
+  {
+    "name": "Munna",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Musharna",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MUNNA\n",
+  "\n#if P_FAMILY_PIDOVE\n",
+  {
+    "name": "Pidove",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Tranquill",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Unfezant",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PIDOVE\n",
+  "\n#if P_FAMILY_BLITZLE\n",
+  {
+    "name": "Blitzle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Zebstrika",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BLITZLE\n",
+  "\n#if P_FAMILY_ROGGENROLA\n",
+  {
+    "name": "Roggenrola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Boldore",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Gigalith",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ROGGENROLA\n",
+  "\n#if P_FAMILY_WOOBAT\n",
+  {
+    "name": "Woobat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Swoobat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WOOBAT\n",
+  "\n#if P_FAMILY_DRILBUR\n",
+  {
+    "name": "Drilbur",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Excadrill",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DRILBUR\n",
+  "\n#if P_FAMILY_AUDINO\n",
+  {
+    "name": "Audino",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_AUDINO\n",
+  "\n#if P_FAMILY_TIMBURR\n",
+  {
+    "name": "Timburr",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Gurdurr",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Conkeldurr",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TIMBURR\n",
+  "\n#if P_FAMILY_TYMPOLE\n",
+  {
+    "name": "Tympole",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Palpitoad",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Seismitoad",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TYMPOLE\n",
+  "\n#if P_FAMILY_THROH\n",
+  {
+    "name": "Throh",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_THROH\n",
+  "\n#if P_FAMILY_SAWK\n",
+  {
+    "name": "Sawk",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SAWK\n",
+  "\n#if P_FAMILY_SEWADDLE\n",
+  {
+    "name": "Sewaddle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Swadloon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Leavanny",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SEWADDLE\n",
+  "\n#if P_FAMILY_VENIPEDE\n",
+  {
+    "name": "Venipede",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Whirlipede",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Scolipede",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_VENIPEDE\n",
+  "\n#if P_FAMILY_COTTONEE\n",
+  {
+    "name": "Cottonee",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Whimsicott",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_COTTONEE\n",
+  "\n#if P_FAMILY_PETILIL\n",
+  {
+    "name": "Petilil",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Lilligant",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "LilligantHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_PETILIL\n",
+  "\n#if P_FAMILY_BASCULIN\n",
+  {
+    "name": "Basculin",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "BasculinWhiteStriped",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Basculegion",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_BASCULIN\n",
+  "\n#if P_FAMILY_SANDILE\n",
+  {
+    "name": "Sandile",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Krokorok",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Krookodile",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SANDILE\n",
+  "\n#if P_FAMILY_DARUMAKA\n",
+  {
+    "name": "Darumaka",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Darmanitan",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "DarumakaGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "DarmanitanGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_DARUMAKA\n",
+  "\n#if P_FAMILY_MARACTUS\n",
+  {
+    "name": "Maractus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MARACTUS\n",
+  "\n#if P_FAMILY_DWEBBLE\n",
+  {
+    "name": "Dwebble",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Crustle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DWEBBLE\n",
+  "\n#if P_FAMILY_SCRAGGY\n",
+  {
+    "name": "Scraggy",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Scrafty",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SCRAGGY\n",
+  "\n#if P_FAMILY_SIGILYPH\n",
+  {
+    "name": "Sigilyph",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SIGILYPH\n",
+  "\n#if P_FAMILY_YAMASK\n",
+  {
+    "name": "Yamask",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Cofagrigus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "YamaskGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Runerigus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_YAMASK\n",
+  "\n#if P_FAMILY_TIRTOUGA\n",
+  {
+    "name": "Tirtouga",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Carracosta",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TIRTOUGA\n",
+  "\n#if P_FAMILY_ARCHEN\n",
+  {
+    "name": "Archen",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Archeops",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ARCHEN\n",
+  "\n#if P_FAMILY_TRUBBISH\n",
+  {
+    "name": "Trubbish",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Garbodor",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TRUBBISH\n",
+  "\n#if P_FAMILY_ZORUA\n",
+  {
+    "name": "Zorua",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Zoroark",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "ZoruaHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "ZoroarkHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_ZORUA\n",
+  "\n#if P_FAMILY_MINCCINO\n",
+  {
+    "name": "Minccino",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Cinccino",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MINCCINO\n",
+  "\n#if P_FAMILY_GOTHITA\n",
+  {
+    "name": "Gothita",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Gothorita",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Gothitelle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GOTHITA\n",
+  "\n#if P_FAMILY_SOLOSIS\n",
+  {
+    "name": "Solosis",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Duosion",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Reuniclus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SOLOSIS\n",
+  "\n#if P_FAMILY_DUCKLETT\n",
+  {
+    "name": "Ducklett",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Swanna",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DUCKLETT\n",
+  "\n#if P_FAMILY_VANILLITE\n",
+  {
+    "name": "Vanillite",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Vanillish",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Vanilluxe",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_VANILLITE\n",
+  "\n#if P_FAMILY_DEERLING\n",
+  {
+    "name": "Deerling",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Sawsbuck",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DEERLING\n",
+  "\n#if P_FAMILY_EMOLGA\n",
+  {
+    "name": "Emolga",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_EMOLGA\n",
+  "\n#if P_FAMILY_KARRABLAST\n",
+  {
+    "name": "Karrablast",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Escavalier",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KARRABLAST\n",
+  "\n#if P_FAMILY_FOONGUS\n",
+  {
+    "name": "Foongus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Amoonguss",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FOONGUS\n",
+  "\n#if P_FAMILY_FRILLISH\n",
+  {
+    "name": "Frillish",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Jellicent",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FRILLISH\n",
+  "\n#if P_FAMILY_ALOMOMOLA\n",
+  {
+    "name": "Alomomola",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ALOMOMOLA\n",
+  "\n#if P_FAMILY_JOLTIK\n",
+  {
+    "name": "Joltik",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Galvantula",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_JOLTIK\n",
+  "\n#if P_FAMILY_FERROSEED\n",
+  {
+    "name": "Ferroseed",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Ferrothorn",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FERROSEED\n",
+  "\n#if P_FAMILY_KLINK\n",
+  {
+    "name": "Klink",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Klang",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Klinklang",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KLINK\n",
+  "\n#if P_FAMILY_TYNAMO\n",
+  {
+    "name": "Tynamo",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Eelektrik",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Eelektross",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TYNAMO\n",
+  "\n#if P_FAMILY_ELGYEM\n",
+  {
+    "name": "Elgyem",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Beheeyem",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ELGYEM\n",
+  "\n#if P_FAMILY_LITWICK\n",
+  {
+    "name": "Litwick",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Lampent",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Chandelure",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LITWICK\n",
+  "\n#if P_FAMILY_AXEW\n",
+  {
+    "name": "Axew",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Fraxure",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Haxorus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_AXEW\n",
+  "\n#if P_FAMILY_CUBCHOO\n",
+  {
+    "name": "Cubchoo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Beartic",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CUBCHOO\n",
+  "\n#if P_FAMILY_CRYOGONAL\n",
+  {
+    "name": "Cryogonal",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CRYOGONAL\n",
+  "\n#if P_FAMILY_SHELMET\n",
+  {
+    "name": "Shelmet",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Accelgor",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SHELMET\n",
+  "\n#if P_FAMILY_STUNFISK\n",
+  {
+    "name": "Stunfisk",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GALARIAN_FORMS\n",
+  {
+    "name": "StunfiskGalar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GALARIAN_FORMS\n",
+  "#endif //P_FAMILY_STUNFISK\n",
+  "\n#if P_FAMILY_MIENFOO\n",
+  {
+    "name": "Mienfoo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Mienshao",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MIENFOO\n",
+  "\n#if P_FAMILY_DRUDDIGON\n",
+  {
+    "name": "Druddigon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DRUDDIGON\n",
+  "\n#if P_FAMILY_GOLETT\n",
+  {
+    "name": "Golett",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Golurk",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GOLETT\n",
+  "\n#if P_FAMILY_PAWNIARD\n",
+  {
+    "name": "Pawniard",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Bisharp",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_9_CROSS_EVOS\n",
+  {
+    "name": "Kingambit",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_9_CROSS_EVOS\n",
+  "#endif //P_FAMILY_PAWNIARD\n",
+  "\n#if P_FAMILY_BOUFFALANT\n",
+  {
+    "name": "Bouffalant",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BOUFFALANT\n",
+  "\n#if P_FAMILY_RUFFLET\n",
+  {
+    "name": "Rufflet",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Braviary",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "BraviaryHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_RUFFLET\n",
+  "\n#if P_FAMILY_VULLABY\n",
+  {
+    "name": "Vullaby",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Mandibuzz",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_VULLABY\n",
+  "\n#if P_FAMILY_HEATMOR\n",
+  {
+    "name": "Heatmor",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HEATMOR\n",
+  "\n#if P_FAMILY_DURANT\n",
+  {
+    "name": "Durant",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DURANT\n",
+  "\n#if P_FAMILY_DEINO\n",
+  {
+    "name": "Deino",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Zweilous",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Hydreigon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DEINO\n",
+  "\n#if P_FAMILY_LARVESTA\n",
+  {
+    "name": "Larvesta",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Volcarona",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LARVESTA\n",
+  "\n#if P_FAMILY_COBALION\n",
+  {
+    "name": "Cobalion",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_COBALION\n",
+  "\n#if P_FAMILY_TERRAKION\n",
+  {
+    "name": "Terrakion",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TERRAKION\n",
+  "\n#if P_FAMILY_VIRIZION\n",
+  {
+    "name": "Virizion",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_VIRIZION\n",
+  "\n#if P_FAMILY_TORNADUS\n",
+  {
+    "name": "Tornadus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TORNADUS\n",
+  "\n#if P_FAMILY_THUNDURUS\n",
+  {
+    "name": "Thundurus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_THUNDURUS\n",
+  "\n#if P_FAMILY_RESHIRAM\n",
+  {
+    "name": "Reshiram",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_RESHIRAM\n",
+  "\n#if P_FAMILY_ZEKROM\n",
+  {
+    "name": "Zekrom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ZEKROM\n",
+  "\n#if P_FAMILY_LANDORUS\n",
+  {
+    "name": "Landorus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LANDORUS\n",
+  "\n#if P_FAMILY_KYUREM\n",
+  {
+    "name": "Kyurem",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KYUREM\n",
+  "\n#if P_FAMILY_KELDEO\n",
+  {
+    "name": "Keldeo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KELDEO\n",
+  "\n#if P_FAMILY_MELOETTA\n",
+  {
+    "name": "Meloetta",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MELOETTA\n",
+  "\n#if P_FAMILY_GENESECT\n",
+  {
+    "name": "Genesect",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GENESECT\n",
+  "\n#if P_FAMILY_CHESPIN\n",
+  {
+    "name": "Chespin",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Quilladin",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Chesnaught",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHESPIN\n",
+  "\n#if P_FAMILY_FENNEKIN\n",
+  {
+    "name": "Fennekin",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Braixen",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Delphox",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FENNEKIN\n",
+  "\n#if P_FAMILY_FROAKIE\n",
+  {
+    "name": "Froakie",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Frogadier",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Greninja",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FROAKIE\n",
+  "\n#if P_FAMILY_BUNNELBY\n",
+  {
+    "name": "Bunnelby",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Diggersby",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BUNNELBY\n",
+  "\n#if P_FAMILY_FLETCHLING\n",
+  {
+    "name": "Fletchling",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Fletchinder",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Talonflame",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FLETCHLING\n",
+  "\n#if P_FAMILY_SCATTERBUG\n",
+  {
+    "name": "Scatterbug",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Spewpa",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Vivillon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SCATTERBUG\n",
+  "\n#if P_FAMILY_LITLEO\n",
+  {
+    "name": "Litleo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Pyroar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LITLEO\n",
+  "\n#if P_FAMILY_FLABEBE\n",
+  {
+    "name": "Flabebe",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Floette",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "FloetteEternal",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Florges",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FLABEBE\n",
+  "\n#if P_FAMILY_SKIDDO\n",
+  {
+    "name": "Skiddo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Gogoat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SKIDDO\n",
+  "\n#if P_FAMILY_PANCHAM\n",
+  {
+    "name": "Pancham",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Pangoro",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PANCHAM\n",
+  "\n#if P_FAMILY_FURFROU\n",
+  {
+    "name": "Furfrou",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FURFROU\n",
+  "\n#if P_FAMILY_ESPURR\n",
+  {
+    "name": "Espurr",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "MeowsticM",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "MeowsticF",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ESPURR\n",
+  "\n#if P_FAMILY_HONEDGE\n",
+  {
+    "name": "Honedge",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Doublade",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Aegislash",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HONEDGE\n",
+  "\n#if P_FAMILY_SPRITZEE\n",
+  {
+    "name": "Spritzee",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Aromatisse",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SPRITZEE\n",
+  "\n#if P_FAMILY_SWIRLIX\n",
+  {
+    "name": "Swirlix",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Slurpuff",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SWIRLIX\n",
+  "\n#if P_FAMILY_INKAY\n",
+  {
+    "name": "Inkay",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Malamar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_INKAY\n",
+  "\n#if P_FAMILY_BINACLE\n",
+  {
+    "name": "Binacle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Barbaracle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BINACLE\n",
+  "\n#if P_FAMILY_SKRELP\n",
+  {
+    "name": "Skrelp",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dragalge",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SKRELP\n",
+  "\n#if P_FAMILY_CLAUNCHER\n",
+  {
+    "name": "Clauncher",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Clawitzer",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CLAUNCHER\n",
+  "\n#if P_FAMILY_HELIOPTILE\n",
+  {
+    "name": "Helioptile",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Heliolisk",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HELIOPTILE\n",
+  "\n#if P_FAMILY_TYRUNT\n",
+  {
+    "name": "Tyrunt",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Tyrantrum",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TYRUNT\n",
+  "\n#if P_FAMILY_AMAURA\n",
+  {
+    "name": "Amaura",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Aurorus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_AMAURA\n",
+  "\n#if P_FAMILY_HAWLUCHA\n",
+  {
+    "name": "Hawlucha",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HAWLUCHA\n",
+  "\n#if P_FAMILY_DEDENNE\n",
+  {
+    "name": "Dedenne",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DEDENNE\n",
+  "\n#if P_FAMILY_CARBINK\n",
+  {
+    "name": "Carbink",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CARBINK\n",
+  "\n#if P_FAMILY_GOOMY\n",
+  {
+    "name": "Goomy",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Sliggoo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Goodra",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "SliggooHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "GoodraHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_GOOMY\n",
+  "\n#if P_FAMILY_KLEFKI\n",
+  {
+    "name": "Klefki",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KLEFKI\n",
+  "\n#if P_FAMILY_PHANTUMP\n",
+  {
+    "name": "Phantump",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Trevenant",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PHANTUMP\n",
+  "\n#if P_FAMILY_PUMPKABOO\n",
+  {
+    "name": "Pumpkaboo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Gourgeist",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PUMPKABOO\n",
+  "\n#if P_FAMILY_BERGMITE\n",
+  {
+    "name": "Bergmite",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Avalugg",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "AvaluggHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_BERGMITE\n",
+  "\n#if P_FAMILY_NOIBAT\n",
+  {
+    "name": "Noibat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Noivern",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_NOIBAT\n",
+  "\n#if P_FAMILY_XERNEAS\n",
+  {
+    "name": "Xerneas",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_XERNEAS\n",
+  "\n#if P_FAMILY_YVELTAL\n",
+  {
+    "name": "Yveltal",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_YVELTAL\n",
+  "\n#if P_FAMILY_ZYGARDE\n",
+  {
+    "name": "Zygarde",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ZYGARDE\n",
+  "\n#if P_FAMILY_DIANCIE\n",
+  {
+    "name": "Diancie",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DIANCIE\n",
+  "\n#if P_FAMILY_HOOPA\n",
+  {
+    "name": "HoopaConfined",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "HoopaUnbound",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HOOPA\n",
+  "\n#if P_FAMILY_VOLCANION\n",
+  {
+    "name": "Volcanion",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_VOLCANION\n",
+  "\n#if P_FAMILY_ROWLET\n",
+  {
+    "name": "Rowlet",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dartrix",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Decidueye",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_HISUIAN_FORMS\n",
+  {
+    "name": "DecidueyeHisui",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_HISUIAN_FORMS\n",
+  "#endif //P_FAMILY_ROWLET\n",
+  "\n#if P_FAMILY_LITTEN\n",
+  {
+    "name": "Litten",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Torracat",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Incineroar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LITTEN\n",
+  "\n#if P_FAMILY_POPPLIO\n",
+  {
+    "name": "Popplio",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Brionne",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Primarina",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_POPPLIO\n",
+  "\n#if P_FAMILY_PIKIPEK\n",
+  {
+    "name": "Pikipek",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Trumbeak",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Toucannon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PIKIPEK\n",
+  "\n#if P_FAMILY_YUNGOOS\n",
+  {
+    "name": "Yungoos",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Gumshoos",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_YUNGOOS\n",
+  "\n#if P_FAMILY_GRUBBIN\n",
+  {
+    "name": "Grubbin",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Charjabug",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Vikavolt",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GRUBBIN\n",
+  "\n#if P_FAMILY_CRABRAWLER\n",
+  {
+    "name": "Crabrawler",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Crabominable",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CRABRAWLER\n",
+  "\n#if P_FAMILY_ORICORIO\n",
+  {
+    "name": "Oricorio",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ORICORIO\n",
+  "\n#if P_FAMILY_CUTIEFLY\n",
+  {
+    "name": "Cutiefly",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Ribombee",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CUTIEFLY\n",
+  "\n#if P_FAMILY_ROCKRUFF\n",
+  {
+    "name": "Rockruff",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "LycanrocMidday",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "LycanrocMidnight",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "LycanrocDusk",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ROCKRUFF\n",
+  "\n#if P_FAMILY_WISHIWASHI\n",
+  {
+    "name": "Wishiwashi",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WISHIWASHI\n",
+  "\n#if P_FAMILY_MAREANIE\n",
+  {
+    "name": "Mareanie",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Toxapex",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MAREANIE\n",
+  "\n#if P_FAMILY_MUDBRAY\n",
+  {
+    "name": "Mudbray",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Mudsdale",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MUDBRAY\n",
+  "\n#if P_FAMILY_DEWPIDER\n",
+  {
+    "name": "Dewpider",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Araquanid",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DEWPIDER\n",
+  "\n#if P_FAMILY_FOMANTIS\n",
+  {
+    "name": "Fomantis",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Lurantis",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FOMANTIS\n",
+  "\n#if P_FAMILY_MORELULL\n",
+  {
+    "name": "Morelull",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Shiinotic",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MORELULL\n",
+  "\n#if P_FAMILY_SALANDIT\n",
+  {
+    "name": "Salandit",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Salazzle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SALANDIT\n",
+  "\n#if P_FAMILY_STUFFUL\n",
+  {
+    "name": "Stufful",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Bewear",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_STUFFUL\n",
+  "\n#if P_FAMILY_BOUNSWEET\n",
+  {
+    "name": "Bounsweet",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Steenee",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Tsareena",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BOUNSWEET\n",
+  "\n#if P_FAMILY_COMFEY\n",
+  {
+    "name": "Comfey",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_COMFEY\n",
+  "\n#if P_FAMILY_ORANGURU\n",
+  {
+    "name": "Oranguru",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ORANGURU\n",
+  "\n#if P_FAMILY_PASSIMIAN\n",
+  {
+    "name": "Passimian",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PASSIMIAN\n",
+  "\n#if P_FAMILY_WIMPOD\n",
+  {
+    "name": "Wimpod",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Golisopod",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WIMPOD\n",
+  "\n#if P_FAMILY_SANDYGAST\n",
+  {
+    "name": "Sandygast",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Palossand",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SANDYGAST\n",
+  "\n#if P_FAMILY_PYUKUMUKU\n",
+  {
+    "name": "Pyukumuku",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "#endif //P_FAMILY_PYUKUMUKU\n",
+  "\n#if P_FAMILY_TYPE_NULL\n",
+  {
+    "name": "TypeNull",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Silvally",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TYPE_NULL\n",
+  "\n#if P_FAMILY_MINIOR\n",
+  {
+    "name": "Minior",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MINIOR\n",
+  "\n#if P_FAMILY_KOMALA\n",
+  {
+    "name": "Komala",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KOMALA\n",
+  "\n#if P_FAMILY_TURTONATOR\n",
+  {
+    "name": "Turtonator",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TURTONATOR\n",
+  "\n#if P_FAMILY_TOGEDEMARU\n",
+  {
+    "name": "Togedemaru",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TOGEDEMARU\n",
+  "\n#if P_FAMILY_MIMIKYU\n",
+  {
+    "name": "Mimikyu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MIMIKYU\n",
+  "\n#if P_FAMILY_BRUXISH\n",
+  {
+    "name": "Bruxish",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BRUXISH\n",
+  "\n#if P_FAMILY_DRAMPA\n",
+  {
+    "name": "Drampa",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DRAMPA\n",
+  "\n#if P_FAMILY_DHELMISE\n",
+  {
+    "name": "Dhelmise",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DHELMISE\n",
+  "\n#if P_FAMILY_JANGMO_O\n",
+  {
+    "name": "JangmoO",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "HakamoO",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "KommoO",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_JANGMO_O\n",
+  "\n#if P_FAMILY_TAPU_KOKO\n",
+  {
+    "name": "TapuKoko",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TAPU_KOKO\n",
+  "\n#if P_FAMILY_TAPU_LELE\n",
+  {
+    "name": "TapuLele",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TAPU_LELE\n",
+  "\n#if P_FAMILY_TAPU_BULU\n",
+  {
+    "name": "TapuBulu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TAPU_BULU\n",
+  "\n#if P_FAMILY_TAPU_FINI\n",
+  {
+    "name": "TapuFini",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TAPU_FINI\n",
+  "\n#if P_FAMILY_COSMOG\n",
+  {
+    "name": "Cosmog",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Cosmoem",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Solgaleo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Lunala",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_COSMOG\n",
+  "\n#if P_FAMILY_NIHILEGO\n",
+  {
+    "name": "Nihilego",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_NIHILEGO\n",
+  "\n#if P_FAMILY_BUZZWOLE\n",
+  {
+    "name": "Buzzwole",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BUZZWOLE\n",
+  "\n#if P_FAMILY_PHEROMOSA\n",
+  {
+    "name": "Pheromosa",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PHEROMOSA\n",
+  "\n#if P_FAMILY_XURKITREE\n",
+  {
+    "name": "Xurkitree",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_XURKITREE\n",
+  "\n#if P_FAMILY_CELESTEELA\n",
+  {
+    "name": "Celesteela",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CELESTEELA\n",
+  "\n#if P_FAMILY_KARTANA\n",
+  {
+    "name": "Kartana",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KARTANA\n",
+  "\n#if P_FAMILY_GUZZLORD\n",
+  {
+    "name": "Guzzlord",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GUZZLORD\n",
+  "\n#if P_FAMILY_NECROZMA\n",
+  {
+    "name": "Necrozma",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_NECROZMA\n",
+  "\n#if P_FAMILY_MAGEARNA\n",
+  {
+    "name": "Magearna",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MAGEARNA\n",
+  "\n#if P_FAMILY_MARSHADOW\n",
+  {
+    "name": "Marshadow",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MARSHADOW\n",
+  "\n#if P_FAMILY_POIPOLE\n",
+  {
+    "name": "Poipole",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Naganadel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_POIPOLE\n",
+  "\n#if P_FAMILY_STAKATAKA\n",
+  {
+    "name": "Stakataka",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_STAKATAKA\n",
+  "\n#if P_FAMILY_BLACEPHALON\n",
+  {
+    "name": "Blacephalon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BLACEPHALON\n",
+  "\n#if P_FAMILY_ZERAORA\n",
+  {
+    "name": "Zeraora",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ZERAORA\n",
+  "\n#if P_FAMILY_MELTAN\n",
+  {
+    "name": "Meltan",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Melmetal",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MELTAN\n",
+  "\n#if P_FAMILY_GROOKEY\n",
+  {
+    "name": "Grookey",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Thwackey",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Rillaboom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GROOKEY\n",
+  "\n#if P_FAMILY_SCORBUNNY\n",
+  {
+    "name": "Scorbunny",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Raboot",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Cinderace",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SCORBUNNY\n",
+  "\n#if P_FAMILY_SOBBLE\n",
+  {
+    "name": "Sobble",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Drizzile",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Inteleon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SOBBLE\n",
+  "\n#if P_FAMILY_SKWOVET\n",
+  {
+    "name": "Skwovet",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Greedent",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SKWOVET\n",
+  "\n#if P_FAMILY_ROOKIDEE\n",
+  {
+    "name": "Rookidee",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Corvisquire",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Corviknight",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ROOKIDEE\n",
+  "\n#if P_FAMILY_BLIPBUG\n",
+  {
+    "name": "Blipbug",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Dottler",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Orbeetle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BLIPBUG\n",
+  "\n#if P_FAMILY_NICKIT\n",
+  {
+    "name": "Nickit",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Thievul",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_NICKIT\n",
+  "\n#if P_FAMILY_GOSSIFLEUR\n",
+  {
+    "name": "Gossifleur",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Eldegoss",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GOSSIFLEUR\n",
+  "\n#if P_FAMILY_WOOLOO\n",
+  {
+    "name": "Wooloo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dubwool",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WOOLOO\n",
+  "\n#if P_FAMILY_CHEWTLE\n",
+  {
+    "name": "Chewtle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Drednaw",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHEWTLE\n",
+  "\n#if P_FAMILY_YAMPER\n",
+  {
+    "name": "Yamper",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Boltund",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_YAMPER\n",
+  "\n#if P_FAMILY_ROLYCOLY\n",
+  {
+    "name": "Rolycoly",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Carkol",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Coalossal",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ROLYCOLY\n",
+  "\n#if P_FAMILY_APPLIN\n",
+  {
+    "name": "Applin",
+    "teaching_type": "TM_ILLITERATE"
+  },
+  "\n",
+  {
+    "name": "Flapple",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "Appletun",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_9_CROSS_EVOS\n",
+  {
+    "name": "Dipplin",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Hydrapple",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_9_CROSS_EVOS\n",
+  "#endif //P_FAMILY_APPLIN\n",
+  "\n#if P_FAMILY_SILICOBRA\n",
+  {
+    "name": "Silicobra",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Sandaconda",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SILICOBRA\n",
+  "\n#if P_FAMILY_CRAMORANT\n",
+  {
+    "name": "Cramorant",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CRAMORANT\n",
+  "\n#if P_FAMILY_ARROKUDA\n",
+  {
+    "name": "Arrokuda",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Barraskewda",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ARROKUDA\n",
+  "\n#if P_FAMILY_TOXEL\n",
+  {
+    "name": "Toxel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "ToxtricityAmped",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "ToxtricityLowKey",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TOXEL\n",
+  "\n#if P_FAMILY_SIZZLIPEDE\n",
+  {
+    "name": "Sizzlipede",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Centiskorch",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SIZZLIPEDE\n",
+  "\n#if P_FAMILY_CLOBBOPUS\n",
+  {
+    "name": "Clobbopus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Grapploct",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CLOBBOPUS\n",
+  "\n#if P_FAMILY_SINISTEA\n",
+  {
+    "name": "Sinistea",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Polteageist",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SINISTEA\n",
+  "\n#if P_FAMILY_HATENNA\n",
+  {
+    "name": "Hatenna",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Hattrem",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Hatterene",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_HATENNA\n",
+  "\n#if P_FAMILY_IMPIDIMP\n",
+  {
+    "name": "Impidimp",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Morgrem",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Grimmsnarl",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_IMPIDIMP\n",
+  "\n#if P_FAMILY_MILCERY\n",
+  {
+    "name": "Milcery",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Alcremie",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MILCERY\n",
+  "\n#if P_FAMILY_FALINKS\n",
+  {
+    "name": "Falinks",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FALINKS\n",
+  "\n#if P_FAMILY_PINCURCHIN\n",
+  {
+    "name": "Pincurchin",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PINCURCHIN\n",
+  "\n#if P_FAMILY_SNOM\n",
+  {
+    "name": "Snom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Frosmoth",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SNOM\n",
+  "\n#if P_FAMILY_STONJOURNER\n",
+  {
+    "name": "Stonjourner",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_STONJOURNER\n",
+  "\n#if P_FAMILY_EISCUE\n",
+  {
+    "name": "Eiscue",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_EISCUE\n",
+  "\n#if P_FAMILY_INDEEDEE\n",
+  {
+    "name": "IndeedeeM",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "IndeedeeF",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_INDEEDEE\n",
+  "\n#if P_FAMILY_MORPEKO\n",
+  {
+    "name": "Morpeko",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MORPEKO\n",
+  "\n#if P_FAMILY_CUFANT\n",
+  {
+    "name": "Cufant",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Copperajah",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CUFANT\n",
+  "\n#if P_FAMILY_DRACOZOLT\n",
+  {
+    "name": "Dracozolt",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DRACOZOLT\n",
+  "\n#if P_FAMILY_ARCTOZOLT\n",
+  {
+    "name": "Arctozolt",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ARCTOZOLT\n",
+  "\n#if P_FAMILY_DRACOVISH\n",
+  {
+    "name": "Dracovish",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DRACOVISH\n",
+  "\n#if P_FAMILY_ARCTOVISH\n",
+  {
+    "name": "Arctovish",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ARCTOVISH\n",
+  "\n#if P_FAMILY_DURALUDON\n",
+  {
+    "name": "Duraludon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_GEN_9_CROSS_EVOS\n",
+  {
+    "name": "Archaludon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_GEN_9_CROSS_EVOS\n",
+  "#endif //P_FAMILY_DURALUDON\n",
+  "\n#if P_FAMILY_DREEPY\n",
+  {
+    "name": "Dreepy",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Drakloak",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dragapult",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DREEPY\n",
+  "\n#if P_FAMILY_ZACIAN\n",
+  {
+    "name": "Zacian",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ZACIAN\n",
+  "\n#if P_FAMILY_ZAMAZENTA\n",
+  {
+    "name": "Zamazenta",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ZAMAZENTA\n",
+  "\n#if P_FAMILY_ETERNATUS\n",
+  {
+    "name": "Eternatus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ETERNATUS\n",
+  "\n#if P_FAMILY_KUBFU\n",
+  {
+    "name": "Kubfu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "UrshifuSingleStrike",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  {
+    "name": "UrshifuRapidStrike",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KUBFU\n",
+  "\n#if P_FAMILY_ZARUDE\n",
+  {
+    "name": "Zarude",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ZARUDE\n",
+  "\n#if P_FAMILY_REGIELEKI\n",
+  {
+    "name": "Regieleki",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_REGIELEKI\n",
+  "\n#if P_FAMILY_REGIDRAGO\n",
+  {
+    "name": "Regidrago",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_REGIDRAGO\n",
+  "\n#if P_FAMILY_GLASTRIER\n",
+  {
+    "name": "Glastrier",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GLASTRIER\n",
+  "\n#if P_FAMILY_SPECTRIER\n",
+  {
+    "name": "Spectrier",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SPECTRIER\n",
+  "\n#if P_FAMILY_CALYREX\n",
+  {
+    "name": "Calyrex",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n#if P_FUSION_FORMS\n",
+  {
+    "name": "CalyrexIce",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "CalyrexShadow",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FUSION_FORMS\n",
+  "#endif //P_FAMILY_CALYREX\n",
+  "\n#if P_FAMILY_ENAMORUS\n",
+  {
+    "name": "Enamorus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ENAMORUS\n",
+  "\n#if P_FAMILY_SPRIGATITO\n",
+  {
+    "name": "Sprigatito",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Floragato",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Meowscarada",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SPRIGATITO\n",
+  "\n#if P_FAMILY_FUECOCO\n",
+  {
+    "name": "Fuecoco",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Crocalor",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Skeledirge",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FUECOCO\n",
+  "\n#if P_FAMILY_QUAXLY\n",
+  {
+    "name": "Quaxly",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Quaxwell",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Quaquaval",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_QUAXLY\n",
+  "\n#if P_FAMILY_LECHONK\n",
+  {
+    "name": "Lechonk",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Oinkologne",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_LECHONK\n",
+  "\n#if P_FAMILY_TAROUNTULA\n",
+  {
+    "name": "Tarountula",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Spidops",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TAROUNTULA\n",
+  "\n#if P_FAMILY_NYMBLE\n",
+  {
+    "name": "Nymble",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Lokix",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_NYMBLE\n",
+  "\n#if P_FAMILY_PAWMI\n",
+  {
+    "name": "Pawmi",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Pawmo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Pawmot",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PAWMI\n",
+  "\n#if P_FAMILY_TANDEMAUS\n",
+  {
+    "name": "Tandemaus",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Maushold",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TANDEMAUS\n",
+  "\n#if P_FAMILY_FIDOUGH\n",
+  {
+    "name": "Fidough",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dachsbun",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FIDOUGH\n",
+  "\n#if P_FAMILY_SMOLIV\n",
+  {
+    "name": "Smoliv",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Dolliv",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Arboliva",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SMOLIV\n",
+  "\n#if P_FAMILY_SQUAWKABILLY\n",
+  {
+    "name": "Squawkabilly",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SQUAWKABILLY\n",
+  "\n#if P_FAMILY_NACLI\n",
+  {
+    "name": "Nacli",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Naclstack",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Garganacl",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_NACLI\n",
+  "\n#if P_FAMILY_CHARCADET\n",
+  {
+    "name": "Charcadet",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Armarouge",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Ceruledge",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHARCADET\n",
+  "\n#if P_FAMILY_TADBULB\n",
+  {
+    "name": "Tadbulb",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Bellibolt",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TADBULB\n",
+  "\n#if P_FAMILY_WATTREL\n",
+  {
+    "name": "Wattrel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Kilowattrel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WATTREL\n",
+  "\n#if P_FAMILY_MASCHIFF\n",
+  {
+    "name": "Maschiff",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Mabosstiff",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MASCHIFF\n",
+  "\n#if P_FAMILY_SHROODLE\n",
+  {
+    "name": "Shroodle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Grafaiai",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SHROODLE\n",
+  "\n#if P_FAMILY_BRAMBLIN\n",
+  {
+    "name": "Bramblin",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Brambleghast",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BRAMBLIN\n",
+  "\n#if P_FAMILY_TOEDSCOOL\n",
+  {
+    "name": "Toedscool",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Toedscruel",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TOEDSCOOL\n",
+  "\n#if P_FAMILY_KLAWF\n",
+  {
+    "name": "Klawf",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KLAWF\n",
+  "\n#if P_FAMILY_CAPSAKID\n",
+  {
+    "name": "Capsakid",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Scovillain",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CAPSAKID\n",
+  "\n#if P_FAMILY_RELLOR\n",
+  {
+    "name": "Rellor",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Rabsca",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_RELLOR\n",
+  "\n#if P_FAMILY_FLITTLE\n",
+  {
+    "name": "Flittle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Espathra",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FLITTLE\n",
+  "\n#if P_FAMILY_TINKATINK\n",
+  {
+    "name": "Tinkatink",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Tinkatuff",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Tinkaton",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TINKATINK\n",
+  "\n#if P_FAMILY_WIGLETT\n",
+  {
+    "name": "Wiglett",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Wugtrio",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WIGLETT\n",
+  "\n#if P_FAMILY_BOMBIRDIER\n",
+  {
+    "name": "Bombirdier",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BOMBIRDIER\n",
+  "\n#if P_FAMILY_FINIZEN\n",
+  {
+    "name": "Finizen",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Palafin",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FINIZEN\n",
+  "\n#if P_FAMILY_VAROOM\n",
+  {
+    "name": "Varoom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Revavroom",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_VAROOM\n",
+  "\n#if P_FAMILY_CYCLIZAR\n",
+  {
+    "name": "Cyclizar",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CYCLIZAR\n",
+  "\n#if P_FAMILY_ORTHWORM\n",
+  {
+    "name": "Orthworm",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ORTHWORM\n",
+  "\n#if P_FAMILY_GLIMMET\n",
+  {
+    "name": "Glimmet",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Glimmora",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GLIMMET\n",
+  "\n#if P_FAMILY_GREAVARD\n",
+  {
+    "name": "Greavard",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Houndstone",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GREAVARD\n",
+  "\n#if P_FAMILY_FLAMIGO\n",
+  {
+    "name": "Flamigo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FLAMIGO\n",
+  "\n#if P_FAMILY_CETODDLE\n",
+  {
+    "name": "Cetoddle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Cetitan",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CETODDLE\n",
+  "\n#if P_FAMILY_VELUZA\n",
+  {
+    "name": "Veluza",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_VELUZA\n",
+  "\n#if P_FAMILY_DONDOZO\n",
+  {
+    "name": "Dondozo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_DONDOZO\n",
+  "\n#if P_FAMILY_TATSUGIRI\n",
+  {
+    "name": "Tatsugiri",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TATSUGIRI\n",
+  "\n#if P_FAMILY_GREAT_TUSK\n",
+  {
+    "name": "GreatTusk",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GREAT_TUSK\n",
+  "\n#if P_FAMILY_SCREAM_TAIL\n",
+  {
+    "name": "ScreamTail",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SCREAM_TAIL\n",
+  "\n#if P_FAMILY_BRUTE_BONNET\n",
+  {
+    "name": "BruteBonnet",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_BRUTE_BONNET\n",
+  "\n#if P_FAMILY_FLUTTER_MANE\n",
+  {
+    "name": "FlutterMane",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FLUTTER_MANE\n",
+  "\n#if P_FAMILY_SLITHER_WING\n",
+  {
+    "name": "SlitherWing",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SLITHER_WING\n",
+  "\n#if P_FAMILY_SANDY_SHOCKS\n",
+  {
+    "name": "SandyShocks",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_SANDY_SHOCKS\n",
+  "\n#if P_FAMILY_IRON_TREADS\n",
+  {
+    "name": "IronTreads",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_IRON_TREADS\n",
+  "\n#if P_FAMILY_IRON_BUNDLE\n",
+  {
+    "name": "IronBundle",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_IRON_BUNDLE\n",
+  "\n#if P_FAMILY_IRON_HANDS\n",
+  {
+    "name": "IronHands",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_IRON_HANDS\n",
+  "\n#if P_FAMILY_IRON_JUGULIS\n",
+  {
+    "name": "IronJugulis",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_IRON_JUGULIS\n",
+  "\n#if P_FAMILY_IRON_MOTH\n",
+  {
+    "name": "IronMoth",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_IRON_MOTH\n",
+  "\n#if P_FAMILY_IRON_THORNS\n",
+  {
+    "name": "IronThorns",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_IRON_THORNS\n",
+  "\n#if P_FAMILY_FRIGIBAX\n",
+  {
+    "name": "Frigibax",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Arctibax",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Baxcalibur",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FRIGIBAX\n",
+  "\n#if P_FAMILY_GIMMIGHOUL\n",
+  {
+    "name": "Gimmighoul",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Gholdengo",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GIMMIGHOUL\n",
+  "\n#if P_FAMILY_WO_CHIEN\n",
+  {
+    "name": "WoChien",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WO_CHIEN\n",
+  "\n#if P_FAMILY_CHIEN_PAO\n",
+  {
+    "name": "ChienPao",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHIEN_PAO\n",
+  "\n#if P_FAMILY_TING_LU\n",
+  {
+    "name": "TingLu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TING_LU\n",
+  "\n#if P_FAMILY_CHI_YU\n",
+  {
+    "name": "ChiYu",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_CHI_YU\n",
+  "\n#if P_FAMILY_ROARING_MOON\n",
+  {
+    "name": "RoaringMoon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_ROARING_MOON\n",
+  "\n#if P_FAMILY_IRON_VALIANT\n",
+  {
+    "name": "IronValiant",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_IRON_VALIANT\n",
+  "\n#if P_FAMILY_KORAIDON\n",
+  {
+    "name": "Koraidon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_KORAIDON\n",
+  "\n#if P_FAMILY_MIRAIDON\n",
+  {
+    "name": "Miraidon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MIRAIDON\n",
+  "\n#if P_FAMILY_WALKING_WAKE\n",
+  {
+    "name": "WalkingWake",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_WALKING_WAKE\n",
+  "\n#if P_FAMILY_IRON_LEAVES\n",
+  {
+    "name": "IronLeaves",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_IRON_LEAVES\n",
+  "\n#if P_FAMILY_POLTCHAGEIST\n",
+  {
+    "name": "Poltchageist",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "\n",
+  {
+    "name": "Sinistcha",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_POLTCHAGEIST\n",
+  "\n#if P_FAMILY_OKIDOGI\n",
+  {
+    "name": "Okidogi",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_OKIDOGI\n",
+  "\n#if P_FAMILY_MUNKIDORI\n",
+  {
+    "name": "Munkidori",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_MUNKIDORI\n",
+  "\n#if P_FAMILY_FEZANDIPITI\n",
+  {
+    "name": "Fezandipiti",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_FEZANDIPITI\n",
+  "\n#if P_FAMILY_OGERPON\n",
+  {
+    "name": "Ogerpon",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_OGERPON\n",
+  "\n#if P_FAMILY_GOUGING_FIRE\n",
+  {
+    "name": "GougingFire",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_GOUGING_FIRE\n",
+  "\n#if P_FAMILY_RAGING_BOLT\n",
+  {
+    "name": "RagingBolt",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_RAGING_BOLT\n",
+  "\n#if P_FAMILY_IRON_BOULDER\n",
+  {
+    "name": "IronBoulder",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_IRON_BOULDER\n",
+  "\n#if P_FAMILY_IRON_CROWN\n",
+  {
+    "name": "IronCrown",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_IRON_CROWN\n",
+  "\n#if P_FAMILY_TERAPAGOS\n",
+  {
+    "name": "Terapagos",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_TERAPAGOS\n",
+  "\n#if P_FAMILY_PECHARUNT\n",
+  {
+    "name": "Pecharunt",
+    "teaching_type": "DEFAULT_LEARNING"
+  },
+  "#endif //P_FAMILY_PECHARUNT\n"
+]
